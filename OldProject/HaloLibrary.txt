@@ -1,0 +1,180 @@
+Halcyon-class light cruiser
+Cruiser
+UNSC
+1170.6
+https://www.halopedia.org/Halcyon-class_light_cruiser
+
+Sojourner-class dreadnought
+Cruiser
+Forerunner
+9430.0
+https://www.halopedia.org/Sojourner-class_dreadnought
+
+Winter-class prowler
+Cruiser
+UNSC
+84.2
+https://www.halopedia.org/Winter-class_prowler
+
+Autumn-class heavy cruiser
+Cruiser
+UNSC
+1425.0
+https://www.halopedia.org/Autumn-class_heavy_cruiser
+
+Infinity-class supercarrier
+Carrier
+UNSC
+5694.2
+http://halo.wikia.com/wiki/Infinity-class_supercarrier
+
+CPV-class heavy destroyer
+Cruiser
+Covenant
+1664.0
+https://www.halopedia.org/CPV-class_heavy_destroyer
+
+Fortress-class vessel
+Carrier
+Forerunner
+100000.0
+https://www.halopedia.org/Fortress-class_vessel
+
+Charon-class light frigate
+Frigate
+UNSC
+489.7
+https://www.halopedia.org/Charon-class_light_frigate
+
+CRS-class light cruiser
+Cruiser
+Covenant
+300.0
+https://www.halopedia.org/CRS-class_light_cruiser
+
+Paris-class heavy frigate
+Frigate
+UNSC
+535.0
+http://halo.wikia.com/wiki/Paris-class_heavy_frigate
+
+DAS-class storm cutter
+Cruiser
+Covenant
+225.0
+https://www.halopedia.org/DAS-class_storm_cutter
+
+Phoenix-class carrier
+Carrier
+UNSC
+2500.0
+http://halo.wikia.com/wiki/Phoenix-class_colonial_support_vessel
+
+Anlace-class frigate
+Frigate
+UNSC
+372.0
+https://www.halopedia.org/Anlace-class_frigate
+
+RCS-class armoured cruiser
+Cruiser
+Covenant
+2000.0
+https://www.halopedia.org/RCS-class_armored_cruiser
+
+Type-31 Exoatmospheric Fighter
+Starfighter
+Covenant
+31.0
+http://halo.wikia.com/wiki/Type-31_Exoatmospheric_Multi-role_Fighter
+
+Man O' War
+Cruiser
+Covenant
+526.0
+https://www.halopedia.org/Man_O%27_War
+
+GA-TL1 Longsword
+Bomber
+UNSC
+64.1
+https://www.halopedia.org/GA-TL1_Longsword
+
+Razor-class light prowler
+Corvette
+UNSC
+162.0
+http://halo.wikia.com/wiki/Razor-class_light_prowler
+
+CCS-class battlecruiser
+Cruiser
+Covenant
+1782.0
+https://www.halopedia.org/CCS-class_battlecruiser
+
+Gladius-class corvette
+Corvette
+UNSC
+243.0
+http://halo.wikia.com/wiki/Gladius-class_corvette
+
+SDV-class heavy corvette
+Corvette
+Covenant
+956.0
+https://www.halopedia.org/SDV-class_heavy_corvette
+
+Despair-class fighter
+Starfighter
+Forerunner
+7.0
+https://www.halopedia.org/Despair-class_fighter
+
+Epoch-class heavy carrier
+Carrier
+UNSC
+2563.0
+https://www.halopedia.org/Epoch-class_heavy_carrier
+
+B-65 Suborbital bomber
+Bomber
+Covenant
+27.3
+http://halo.wikia.com/wiki/B-65_Suborbital_Long-Range_Bomber
+
+Brigantine heavy carrier
+Carrier
+Covenant
+6367.0
+https://www.halopedia.org/Brigantine
+
+Marathon-class heavy cruiser
+Starcruiser
+UNSC
+1192.0
+https://www.halopedia.org/Marathon-class_heavy_cruiser
+
+F-41 Broadsword
+Starfighter
+UNSC
+66.3
+https://www.halopedia.org/F-41_Broadsword
+
+Orion-class assault carrier
+Carrier
+UNSC
+2220.0
+https://www.halopedia.org/Orion-class_assault_carrier
+
+Stalwart-class light frigate
+Frigate
+UNSC
+478.0
+https://www.halopedia.org/Stalwart-class_light_frigate
+
+DDS-class carrier
+Carrier
+Covenant
+3000.0
+https://www.halopedia.org/DDS-class_carrier
+

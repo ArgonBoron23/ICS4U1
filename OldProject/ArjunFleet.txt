@@ -1,0 +1,54 @@
+ARC-170 starfighter
+Starfighter
+Galactic Republic
+12.7
+http://starwars.wikia.com/wiki/Aggressive_ReConnaissance-170_starfighter
+
+ARC-170 starfighter
+Starfighter
+Galactic Republic
+12.7
+http://starwars.wikia.com/wiki/Aggressive_ReConnaissance-170_starfighter
+
+Freedom-class
+Cruiser
+United Federation of Planets
+137.1
+http://memory-alpha.wikia.com/wiki/Freedom_class_(22nd_century)
+
+Infinity-class supercarrier
+Carrier
+UNSC
+5694.2
+http://halo.wikia.com/wiki/Infinity-class_supercarrier
+
+Nebula-class
+Cruiser
+United Federation of Planets
+442.2
+http://memory-alpha.wikia.com/wiki/Nebula_class
+
+RZ-1 A-wing interceptor
+Starfighter
+Rebel Alliance
+9.6
+http://starwars.wikia.com/wiki/RZ-1_A-wing_interceptor
+
+Soyuz-class
+Cruiser
+United Federation of Planets
+243.0
+http://memory-alpha.wikia.com/wiki/Soyuz_class
+
+Stalwart-class light frigate
+Frigate
+UNSC
+478.0
+https://www.halopedia.org/Stalwart-class_light_frigate
+
+Freedom-class
+Cruiser
+United Federation of Planets
+137.1
+http://memory-alpha.wikia.com/wiki/Freedom_class_(22nd_century)
+

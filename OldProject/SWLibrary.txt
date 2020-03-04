@@ -1,0 +1,180 @@
+A/SF-01 B-Wing Fighter
+Starfighter
+Rebel Alliance
+16.9
+http://starwars.wikia.com/wiki/A/SF-01_B-wing_starfighter
+
+AEG-77 Vigo
+Transport
+Black Sun
+45.0
+http://starwars.wikia.com/wiki/AEG-77_Vigo
+
+ARC-170 starfighter
+Starfighter
+Galactic Republic
+12.7
+http://starwars.wikia.com/wiki/Aggressive_ReConnaissance-170_starfighter
+
+Alpha-3 V-wing starfighter
+Starfighter
+Galactic Republic
+7.9
+http://starwars.wikia.com/wiki/Alpha-3_Nimbus-class_V-wing_starfighter
+
+BTL Y-Wing Fighter
+Bomber
+Rebel Alliance
+23.4
+http://starwars.wikia.com/wiki/BTL_Y-wing_starfighter
+
+Conqueror-class ship
+Starfighter
+Black Sun
+28.0
+http://starwars.wikia.com/wiki/Conqueror-class_assault_ship
+
+EF76 Nebulon-B escort frigate
+Frigate
+Rebel Alliance
+300.0
+http://starwars.wikia.com/wiki/EF76_Nebulon-B_escort_frigate
+
+Firespray-31-class
+Starfighter
+Bounty Hunters
+21.5
+http://starwars.wikia.com/wiki/Firespray-31-class_patrol_and_attack_craft/Legends
+
+Gozanti Cruiser
+Cruiser
+Rebel Alliance
+41.8
+http://starwars.wikia.com/wiki/Gozanti_Cruiser?li_source=LI&li_medium=wikia-footer-wiki-rec
+
+Hyena-class Bomber
+Bomber
+Separtatist Alliance
+12.5
+http://starwars.wikia.com/wiki/Hyena-class_bomber/Legends
+
+IPV-1 System Patrol Craft
+Corvette
+Black Sun
+120.0
+http://starwars.wikia.com/wiki/IPV-1_System_Patrol_Craft
+
+J-type 327 Nubian  ship
+Transport
+Royal House of Naboo
+76.0
+http://starwars.wikia.com/wiki/J-type_327_Nubian_royal_starship
+
+J-type diplomatic barge
+Transport
+Royal House of Naboo
+39.0
+http://starwars.wikia.com/wiki/J-type_diplomatic_barge/Legends
+
+Low Altitude Assault Transport
+Transport
+Galactic Republic
+17.4
+http://starwars.wikia.com/wiki/Low_Altitude_Assault_Transport/infantry/Legends
+
+Lucrehulk-class Control Ship
+Carrier
+Separtatist Alliance
+2425.0
+http://starwars.wikia.com/wiki/Lucrehulk-class_Droid_Control_Ship
+
+MC80 Star Cruiser
+Cruiser
+Rebel Alliance
+1200.0
+http://starwars.wikia.com/wiki/MC80_Star_Cruiser
+
+MG-100 StarFortress SF-17
+Bomber
+Resistance
+29.7
+http://starwars.wikia.com/wiki/MG-100_StarFortress_SF-17
+
+Munificent-class star frigate
+Frigate
+Separtatist Alliance
+825.0
+http://starwars.wikia.com/wiki/Munificent-class_star_frigate/Legends
+
+N-1 starfighter
+Starfighter
+Naboo Royal Space Fighter Corps
+11.0
+http://starwars.wikia.com/wiki/N-1_starfighter
+
+NB-1S Royal Bomber
+Bomber
+Naboo Royal Space Fighter Corps
+20.0
+http://starwars.wikia.com/wiki/NB-1S_Royal_Bomber
+
+RZ-1 A-wing interceptor
+Starfighter
+Rebel Alliance
+9.6
+http://starwars.wikia.com/wiki/RZ-1_A-wing_interceptor
+
+Sentinal-class landing craft    
+Transport                       
+Galactic Empire
+38.0
+http://starwars.wikia.com/wiki/Sentinel-class_landing_craft/Legends
+
+Sphyrna-class corvette          
+Corvette                        
+Rebel Alliance                  
+315.0
+http://starwars.wikia.com/wiki/Sphyrna-class_corvette
+
+T-65 X-Wing Fighter
+Starfighter
+Rebel Alliance
+12.5
+http://starwars.wikia.com/wiki/T-65_X-wing_starfighter
+
+TIE/LN starfighter
+Starfighter
+Galactic Empire
+6.3
+http://starwars.wikia.com/wiki/TIE/LN_starfighter
+
+TIE/sf superiority fighter
+Starfighter
+First Order
+6.7
+http://starwars.wikia.com/wiki/TIE/sf_space_superiority_fighter
+
+Venator-class star destroyer
+Carrier
+Galactic Republic               
+1155.0
+http://starwars.wikia.com/wiki/Venator-class_Star_Destroyer
+
+Vulture-class starfighter Mk 1
+Starfighter
+Separtatist Alliance
+3.5
+http://starwars.wikia.com/wiki/Variable_Geometry_Self-Propelled_Battle_Droid,_Mark_I
+
+YKL-37R Nova Courier
+Carrier
+New Republic
+30.0
+http://starwars.wikia.com/wiki/YKL-37R_Nova_Courier
+
+YV-929 armed freighter
+Transport
+Rebel Alliance
+22.0
+http://starwars.wikia.com/wiki/YV-929_armed_freighter?li_source=LI&li_medium=wikia-footer-wiki-rec
+

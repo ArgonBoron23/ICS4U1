@@ -1,0 +1,180 @@
+Borg Cube
+Other
+Borg Collective
+3000.0
+http://memory-alpha.wikia.com/wiki/Borg_cube
+
+Borg Queen's vessel
+Transport
+Borg Collective
+2000.0
+http://memory-alpha.wikia.com/wiki/Borg_Queen%27s_vessel
+
+Borg Sphere
+Other
+Borg Collective
+600.0
+http://memory-alpha.wikia.com/wiki/Borg_sphere
+
+Predator-class
+Carrier
+Kazon Order
+531.0
+http://memory-alpha.wikia.com/wiki/Predator_class
+
+B'rel-class Bird of Prey
+Cruiser
+Klingon Empire
+110.0
+http://memory-alpha.wikia.com/wiki/Klingon_Bird-of-Prey
+
+D5-class battle cruiser
+Cruiser
+Klingon Empire
+75.0
+http://memory-alpha.wikia.com/wiki/D5_class
+
+K'vort-class
+Cruiser
+Klingon Empire
+678.4
+http://memory-beta.wikia.com/wiki/K%27vort_class
+
+Raptor-class
+Corvette
+Klingon Empire
+145.0
+http://memory-alpha.wikia.com/wiki/Raptor_class
+
+Negh'Var warship
+Cruiser
+Klingon Empire
+686.0
+http://memory-alpha.wikia.com/wiki/Negh%27Var_warship
+
+Vor'cha-class
+Cruiser
+Klingon Empire
+481.3
+http://memory-alpha.wikia.com/wiki/Vor%27cha_class
+
+Toron-class
+Starfighter
+Klingon Empire
+4.0
+http://memory-alpha.wikia.com/wiki/Toron_class
+
+Akira-class
+Cruiser
+United Federation of Planets
+262.1
+http://memory-alpha.wikia.com/wiki/Akira_class
+
+Antares-type
+Transport
+United Federation of Planets
+222.0
+http://memory-alpha.wikia.com/wiki/Antares_type
+
+Challenger-class
+Cruiser
+United Federation of Planets
+390.0
+http://memory-alpha.wikia.com/wiki/Challenger_class
+
+Constellation-class
+Cruiser
+United Federation of Planets
+310.0
+http://memory-alpha.wikia.com/wiki/Constellation_class
+
+Constitution-class
+Cruiser
+United Federation of Planets
+762.0
+http://memory-beta.wikia.com/wiki/Constitution_class_(Kelvin_timeline)
+
+Defender-class
+Bomber
+United Federation of Planets
+700.0
+http://memory-beta.wikia.com/wiki/Defender_class_(bomber)
+
+Excelsior-class
+Cruiser
+United Federation of Planets
+467.0
+http://memory-alpha.wikia.com/wiki/Excelsior_class
+
+Federation attack fighter
+Starfighter
+United Federation of Planets
+25.0
+http://memory-alpha.wikia.com/wiki/Federation_attack_fighter
+
+Freedom-class
+Cruiser
+United Federation of Planets
+137.1
+http://memory-alpha.wikia.com/wiki/Freedom_class_(22nd_century)
+
+Merced-class
+Cruiser
+United Federation of Planets
+326.0
+http://memory-alpha.wikia.com/wiki/Merced_class
+
+Nebula-class
+Cruiser
+United Federation of Planets
+442.2
+http://memory-alpha.wikia.com/wiki/Nebula_class
+
+Prometheus-class
+Cruiser
+United Federation of Planets
+414.0
+http://memory-alpha.wikia.com/wiki/Prometheus_class
+
+Ptolemy-class
+Cruiser
+United Federation of Planets
+222.0
+http://memory-alpha.wikia.com/wiki/Ptolemy_class
+
+Soyuz-class
+Cruiser
+United Federation of Planets
+243.0
+http://memory-alpha.wikia.com/wiki/Soyuz_class
+
+Valkyrie-class
+Starfighter
+United Federation of Planets
+244.0
+http://memory-beta.wikia.com/wiki/Valkyrie_class
+
+Valkyrie starfighter
+Starfighter
+United Federation of Planets
+7.6
+http://memory-gamma.wikia.com/wiki/Valkyrie_starfighters
+
+Defiant-class
+Corvette
+United Federation of Planets
+170.7
+http://memory-alpha.wikia.com/wiki/Defiant_class
+
+Centaur-type
+Cruiser
+United Federation of Planets
+381.9
+http://memory-alpha.wikia.com/wiki/Centaur_type
+
+Huron-type
+Carrier
+United Federation of Planets
+344.0
+http://memory-alpha.wikia.com/wiki/Huron_type
+

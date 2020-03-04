@@ -1,0 +1,29 @@
+Epoch-class heavy carrier
+Carrier
+Halo
+
+Phoenix-class carrier
+Carrier
+Halo
+
+Infinity-class supercarrier
+Carrier
+Halo
+
+Gladius-class corvette
+Corvette
+Halo
+
+Marathon-class heavy cruiser
+Starcruiser
+Halo
+
+Charon-class light frigate
+Frigate
+Halo
+
+Gorgon-class heavy destroyer
+Destroyer
+Halo
+
+

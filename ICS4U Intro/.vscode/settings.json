@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\argon\\Downloads\\hsa.jar",
+        "jar/becker.jar",
+        "jar/hsa.jar"
+    ]
+}
