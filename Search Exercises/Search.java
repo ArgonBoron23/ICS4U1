@@ -81,7 +81,7 @@ public class Search {
         int totalLinSearch = 0, totalBinSearch = 0, totalIntSearch = 0; // declares total array lookups made
 
         //opens a new file reader and reads the first value of the array as the array length
-        BufferedReader reader = new BufferedReader(new FileReader("sorted.txt"));
+        BufferedReader reader = new BufferedReader(new FileReader("sorted2.txt"));
         int arrayLength = Integer.parseInt(reader.readLine());
         String line;
 
