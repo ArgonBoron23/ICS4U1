@@ -4,6 +4,7 @@ public class AroundTheSquare {
 
 	public static void main(String[] args) {
 
+		// creates new City
 		City markham = new City();
 
 		// north Wall

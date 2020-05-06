@@ -1,6 +1,4 @@
 import becker.robots.*;
-import becker.robots.IColor;
-import becker.robots.Sim;
 
 public class CollectGroceries {
 

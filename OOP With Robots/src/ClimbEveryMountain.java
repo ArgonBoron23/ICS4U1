@@ -67,7 +67,7 @@ public class ClimbEveryMountain {
 			climber.turnLeft();
 		}
 
-		//goes down mountain and turn to leave
+		// goes down mountain and turn to leave
 		climber.move();
 		climber.move();
 		climber.turnLeft();

@@ -1,37 +1,66 @@
-// import pre-made classes, including the Robot superclass
 import becker.robots.*;
 
-// define subclass BetterRobot as an extension of superclass Robot
+// define subclass BetterRobot as extension Robot
 public class BetterRobot extends Robot {
 
-	// Constructors that override the constructors in Robot class.
-	public BetterRobot(City aCity, int aStreet, int anAvenue, Direction aDirection) {
-		// the reference to super(..) is the constructor in the superclass.
+	BetterRobot(City aCity, int aStreet, int anAvenue, Direction aDirection) {
+
+		// calls constructor for four parameters
 		super(aCity, aStreet, anAvenue, aDirection);
+
+		// default label
 		this.setLabel("BR");
 	}
-	public BetterRobot(City aCity, int aStreet, int anAvenue, Direction aDirection, int numThings) {
+
+	BetterRobot(City aCity, int aStreet, int anAvenue, Direction aDirection, int numThings) {
+
+		// calls constructor for five parameters
 		super(aCity, aStreet, anAvenue, aDirection, numThings);
+
+		// default label
 		this.setLabel("BR");
+
 	}
 
-	// new method for Robot to be able to turn right (by turning left three times)
+	// single method to turn right
 	public void turnRight() {
-		this.turnLeft();
-		this.turnLeft();
-		this.turnLeft();
+
+		// takes current speed of robot
+		double defaultSpeed = this.getSpeed();
+
+		// increases robot speed to make turning faster
+		this.setSpeed(defaultSpeed * 3);
+
+		for (int i = 0; i < 3; i++) {
+			this.turnLeft();
+		}
+
+		// resests back to previous speed
+		this.setSpeed(defaultSpeed);
 	}
 
-	// new method for Robot to be able to turn around (by turning left two times)
+	// single method to turn around
 	public void turnAround() {
-		this.turnLeft();
-		this.turnLeft();
+
+		// takes current speed of robot
+		double defaultSpeed = this.getSpeed();
+
+		// increases robot speed to make turning faster
+		this.setSpeed(defaultSpeed * 2);
+
+		for (int i = 0; i < 2; i++) {
+			this.turnLeft();
+		}
+
+		// resests back to previous speed
+		this.setSpeed(defaultSpeed);
 	}
 
-	// Overloading the "move" method to allow for an integer parameter
-	// to indicate the number of spaces to move forward.
-	public void move(int numMoves) {
-		for (int i=1; i<=numMoves; i++) {
+	// single method to move a set amount of spaces
+	public void move(int numSpaces) {
+
+		// moves an amount of spaces
+		for (int i = 0; i < numSpaces; i++) {
 			this.move();
 		}
 	}
