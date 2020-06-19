@@ -6,7 +6,6 @@
 package SimpleCalc;
 
 import java.text.DecimalFormat;
-import java.util.*;
 
 /**
  *
@@ -14,6 +13,10 @@ import java.util.*;
  */
 public class SimpleCalc extends javax.swing.JFrame {
 
+    /**
+     *
+     */
+    private static final long serialVersionUID = 1L;
     // Declares a display string variable
     String displayString = "";
 
@@ -33,7 +36,8 @@ public class SimpleCalc extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated
     // <editor-fold defaultstate="collapsed" desc="Generated
     // <editor-fold defaultstate="collapsed" desc="Generated
-    // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
+    // <editor-fold defaultstate="collapsed" desc="Generated
+    // Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
         button7 = new javax.swing.JButton();
@@ -217,7 +221,8 @@ public class SimpleCalc extends javax.swing.JFrame {
         buttonCloseBracket.setBackground(new java.awt.Color(28, 69, 135));
         buttonCloseBracket.setForeground(new java.awt.Color(200, 200, 200));
         buttonCloseBracket.setText(")");
-        buttonCloseBracket.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        buttonCloseBracket
+                .setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         buttonCloseBracket.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 buttonCloseBracketActionPerformed(evt);
@@ -285,111 +290,163 @@ public class SimpleCalc extends javax.swing.JFrame {
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
-        layout.setHorizontalGroup(
-            layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(layout.createSequentialGroup()
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+        layout.setHorizontalGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING).addGroup(layout
+                .createSequentialGroup().addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(layout.createSequentialGroup()
-                        .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 318, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(0, 0, Short.MAX_VALUE))
-                    .addGroup(layout.createSequentialGroup()
-                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                            .addGroup(layout.createSequentialGroup()
-                                .addComponent(button7, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addGroup(layout.createSequentialGroup()
+                                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 318,
+                                        javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addGap(0, 0, Short.MAX_VALUE))
+                        .addGroup(layout.createSequentialGroup()
+                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                                        .addGroup(layout.createSequentialGroup()
+                                                .addComponent(button7, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                                        javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                .addComponent(button8, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                                        javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                .addComponent(
+                                                        button9, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                                        javax.swing.GroupLayout.PREFERRED_SIZE))
+                                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                                                .addGroup(layout.createSequentialGroup()
+                                                        .addComponent(button1, javax.swing.GroupLayout.PREFERRED_SIZE,
+                                                                48, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                        .addPreferredGap(
+                                                                javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                        .addComponent(
+                                                                button2, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                                                javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                        .addPreferredGap(
+                                                                javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                        .addComponent(button3, javax.swing.GroupLayout.PREFERRED_SIZE,
+                                                                48, javax.swing.GroupLayout.PREFERRED_SIZE))
+                                                .addGroup(layout.createSequentialGroup()
+                                                        .addComponent(button4, javax.swing.GroupLayout.PREFERRED_SIZE,
+                                                                48, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                        .addPreferredGap(
+                                                                javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                        .addComponent(button5, javax.swing.GroupLayout.PREFERRED_SIZE,
+                                                                48, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                        .addPreferredGap(
+                                                                javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                        .addComponent(button6, javax.swing.GroupLayout.PREFERRED_SIZE,
+                                                                48, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                                        .addComponent(button0, javax.swing.GroupLayout.DEFAULT_SIZE,
+                                                javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(button8, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                        .addComponent(buttonDecimal, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                                javax.swing.GroupLayout.PREFERRED_SIZE)
+                                        .addComponent(buttonAdd, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                                javax.swing.GroupLayout.PREFERRED_SIZE)
+                                        .addComponent(buttonSubtract, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                                javax.swing.GroupLayout.PREFERRED_SIZE)
+                                        .addComponent(buttonOpenBracket, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                                javax.swing.GroupLayout.PREFERRED_SIZE))
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(button9, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE))
-                            .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                                .addGroup(layout.createSequentialGroup()
-                                    .addComponent(button1, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                    .addComponent(button2, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                    .addComponent(button3, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                .addGroup(layout.createSequentialGroup()
-                                    .addComponent(button4, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                    .addComponent(button5, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                    .addComponent(button6, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                            .addComponent(button0, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                        .addGroup(layout.createSequentialGroup()
+                                                .addComponent(buttonDivide, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                                        javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                .addComponent(buttonBack, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                                        javax.swing.GroupLayout.PREFERRED_SIZE))
+                                        .addGroup(layout.createSequentialGroup()
+                                                .addComponent(buttonCloseBracket,
+                                                        javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                                        javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                .addComponent(buttonPower, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                                        javax.swing.GroupLayout.PREFERRED_SIZE))
+                                        .addGroup(layout.createSequentialGroup()
+                                                .addComponent(buttonMultiply, javax.swing.GroupLayout.PREFERRED_SIZE,
+                                                        48, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                .addComponent(buttonClear, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                                        javax.swing.GroupLayout.PREFERRED_SIZE))
+                                        .addComponent(buttonSolve, javax.swing.GroupLayout.PREFERRED_SIZE, 102,
+                                                javax.swing.GroupLayout.PREFERRED_SIZE))
+                                .addContainerGap()))));
+        layout.setVerticalGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addGroup(layout.createSequentialGroup().addGap(8, 8, 8)
+                        .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 54,
+                                javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(buttonDecimal, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(buttonAdd, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(buttonSubtract, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(buttonOpenBracket, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE))
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                .addComponent(button7, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                        javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(button8, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                        javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(button9, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                        javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(buttonAdd, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                        javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(buttonMultiply, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                        javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(buttonClear, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                        javax.swing.GroupLayout.PREFERRED_SIZE))
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addGroup(layout.createSequentialGroup()
-                                .addComponent(buttonDivide, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(buttonBack, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE))
-                            .addGroup(layout.createSequentialGroup()
-                                .addComponent(buttonCloseBracket, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(buttonPower, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE))
-                            .addGroup(layout.createSequentialGroup()
-                                .addComponent(buttonMultiply, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(buttonClear, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE))
-                            .addComponent(buttonSolve, javax.swing.GroupLayout.PREFERRED_SIZE, 102, javax.swing.GroupLayout.PREFERRED_SIZE))
-                        .addContainerGap())))
-        );
-        layout.setVerticalGroup(
-            layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(layout.createSequentialGroup()
-                .addGap(8, 8, 8)
-                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 54, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(button7, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(button8, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(button9, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(buttonAdd, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(buttonMultiply, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(buttonClear, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(button4, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(button5, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(button6, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(buttonSubtract, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(buttonDivide, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(buttonBack, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(button1, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(button2, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(button3, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(buttonOpenBracket, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(buttonCloseBracket, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(buttonPower, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(button0, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(buttonSolve, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(buttonDecimal, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
-        );
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                .addComponent(button4, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                        javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(button5, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                        javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(button6, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                        javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(buttonSubtract, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                        javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(buttonDivide, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                        javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(buttonBack, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                        javax.swing.GroupLayout.PREFERRED_SIZE))
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                .addComponent(button1, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                        javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(button2, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                        javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(button3, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                        javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(buttonOpenBracket, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                        javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(buttonCloseBracket, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                        javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(buttonPower, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                        javax.swing.GroupLayout.PREFERRED_SIZE))
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                .addComponent(button0, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                        javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(buttonSolve, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                        javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(buttonDecimal, javax.swing.GroupLayout.PREFERRED_SIZE, 48,
+                                        javax.swing.GroupLayout.PREFERRED_SIZE))
+                        .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
-    private void buttonDecimalActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_buttonDecimalActionPerformed
-        
+    private void buttonDecimalActionPerformed(java.awt.event.ActionEvent evt) {// GEN-FIRST:event_buttonDecimalActionPerformed
+
         appendDisplay(".");
 
-    }//GEN-LAST:event_buttonDecimalActionPerformed
+    }// GEN-LAST:event_buttonDecimalActionPerformed
 
     private void displayTextKeyPressed(java.awt.event.KeyEvent evt) {// GEN-FIRST:event_displayTextKeyPressed
 
         appendDisplay("");
 
+        // Checks for enter key to solve equation
         if (evt.getKeyCode() == java.awt.event.KeyEvent.VK_ENTER) {
+
             solveEquation();
+
+        } else if (evt.getKeyCode() == java.awt.event.KeyEvent.VK_ESCAPE) { // checks for C key to clear screen
+
+            clearDisplay();
+
         }
 
     }// GEN-LAST:event_displayTextKeyPressed
@@ -416,6 +473,14 @@ public class SimpleCalc extends javax.swing.JFrame {
             displayText.setText("Error");
 
         }
+
+    }
+
+    // Helper method to clear the display
+    private void clearDisplay() {
+
+        displayString = "";
+        displayText.setText(displayString);
 
     }
 
@@ -552,8 +617,7 @@ public class SimpleCalc extends javax.swing.JFrame {
 
     private void buttonClearActionPerformed(java.awt.event.ActionEvent evt) {// GEN-FIRST:event_buttonClearActionPerformed
 
-        displayString = "";
-        displayText.setText(displayString);
+        clearDisplay();
 
     }// GEN-LAST:event_buttonClearActionPerformed
 

@@ -14,11 +14,12 @@ public class InfixEvaluation {
         for (int i = 0; i < expression.length(); i++) {
             char c = expression.charAt(i);
             // check if it is number
-            if (Character.isDigit(c)) {
+            if (Character.isDigit(c) || c == '.') {
 
                 // Entry is Digit, it could be greater than one digit number
                 String sNum = "";
-                while (Character.isDigit(c) || c == ".".charAt(0)) {
+                while (Character.isDigit(c) || c == '.') {
+
                     sNum = sNum + c; // add it onto the string (I changed this)
                     i++;
                     if (i < expression.length())
